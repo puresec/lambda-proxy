@@ -1,4 +1,4 @@
-POST /functions/aws_profile_name/region_name/function_name HTTP/1.1
+POST /functions/<aws_profile_name>/<region>/<function_name> HTTP/1.1
 Host: localhost:8082
 
 {
