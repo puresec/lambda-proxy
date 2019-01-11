@@ -1,3 +1,5 @@
+More details in the following blog post: https://www.puresec.io/blog/automated-sql-injection-testing-of-serverless-functions-on-a-shoestring-budget-and-some-good-music
+
 A simple utility to help test AWS Lambda functions for SQL Injection vulnerabilities, using a local HTTP proxy, which transforms the SQLMap HTTP-based attacks to AWS Lambda invoke calls.
 
 Run lambda-proxy
